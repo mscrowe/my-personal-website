@@ -1,4 +1,5 @@
-const h2 = document.createElement("h2");
-h2.textContent = "This content added by Javascript";
+const socialMedia=["IMDB, Podcast, Coverfly, Instagram"];
 
-document.querySelector("body").appendChild(h2);
+console.log(socialMedia);
+
+var elements = document.getElementsByTagName('a');

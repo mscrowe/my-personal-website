@@ -23,3 +23,8 @@ p {
 a {
     color: rgb(252, 184, 56);
 }
+.socials {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
